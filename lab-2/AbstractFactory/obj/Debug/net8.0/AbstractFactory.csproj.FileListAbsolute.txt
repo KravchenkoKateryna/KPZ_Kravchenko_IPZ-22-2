@@ -1,0 +1,14 @@
+E:\Programming\PatternsTasks\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\PatternsTasks\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+E:\Programming\PatternsTasks\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+E:\Programming\PatternsTasks\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\Programming\PatternsTasks\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+E:\Programming\PatternsTasks\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+E:\Programming\PatternsTasks\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+E:\Programming\PatternsTasks\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+E:\Programming\PatternsTasks\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+E:\Programming\PatternsTasks\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+E:\Programming\PatternsTasks\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+E:\Programming\PatternsTasks\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+E:\Programming\PatternsTasks\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+E:\Programming\PatternsTasks\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll

@@ -1,0 +1,14 @@
+E:\Programming\PatternsTasks\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+E:\Programming\PatternsTasks\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+E:\Programming\PatternsTasks\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+E:\Programming\PatternsTasks\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+E:\Programming\PatternsTasks\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+E:\Programming\PatternsTasks\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\PatternsTasks\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+E:\Programming\PatternsTasks\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+E:\Programming\PatternsTasks\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\Programming\PatternsTasks\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+E:\Programming\PatternsTasks\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+E:\Programming\PatternsTasks\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+E:\Programming\PatternsTasks\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+E:\Programming\PatternsTasks\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll

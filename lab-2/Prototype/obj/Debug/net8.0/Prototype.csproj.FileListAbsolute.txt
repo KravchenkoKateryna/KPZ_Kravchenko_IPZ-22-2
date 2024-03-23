@@ -1,0 +1,14 @@
+E:\Programming\PatternsTasks\Prototype\bin\Debug\net8.0\Prototype.exe
+E:\Programming\PatternsTasks\Prototype\bin\Debug\net8.0\Prototype.deps.json
+E:\Programming\PatternsTasks\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+E:\Programming\PatternsTasks\Prototype\bin\Debug\net8.0\Prototype.dll
+E:\Programming\PatternsTasks\Prototype\bin\Debug\net8.0\Prototype.pdb
+E:\Programming\PatternsTasks\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\PatternsTasks\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+E:\Programming\PatternsTasks\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+E:\Programming\PatternsTasks\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+E:\Programming\PatternsTasks\Prototype\obj\Debug\net8.0\Prototype.dll
+E:\Programming\PatternsTasks\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+E:\Programming\PatternsTasks\Prototype\obj\Debug\net8.0\Prototype.pdb
+E:\Programming\PatternsTasks\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+E:\Programming\PatternsTasks\Prototype\obj\Debug\net8.0\ref\Prototype.dll

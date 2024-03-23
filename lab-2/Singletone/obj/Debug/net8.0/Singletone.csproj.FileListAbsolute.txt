@@ -1,0 +1,14 @@
+E:\Programming\PatternsTasks\Singletone\bin\Debug\net8.0\Singletone.exe
+E:\Programming\PatternsTasks\Singletone\bin\Debug\net8.0\Singletone.deps.json
+E:\Programming\PatternsTasks\Singletone\bin\Debug\net8.0\Singletone.runtimeconfig.json
+E:\Programming\PatternsTasks\Singletone\bin\Debug\net8.0\Singletone.dll
+E:\Programming\PatternsTasks\Singletone\bin\Debug\net8.0\Singletone.pdb
+E:\Programming\PatternsTasks\Singletone\obj\Debug\net8.0\Singletone.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\PatternsTasks\Singletone\obj\Debug\net8.0\Singletone.AssemblyInfoInputs.cache
+E:\Programming\PatternsTasks\Singletone\obj\Debug\net8.0\Singletone.AssemblyInfo.cs
+E:\Programming\PatternsTasks\Singletone\obj\Debug\net8.0\Singletone.csproj.CoreCompileInputs.cache
+E:\Programming\PatternsTasks\Singletone\obj\Debug\net8.0\Singletone.dll
+E:\Programming\PatternsTasks\Singletone\obj\Debug\net8.0\refint\Singletone.dll
+E:\Programming\PatternsTasks\Singletone\obj\Debug\net8.0\Singletone.pdb
+E:\Programming\PatternsTasks\Singletone\obj\Debug\net8.0\Singletone.genruntimeconfig.cache
+E:\Programming\PatternsTasks\Singletone\obj\Debug\net8.0\ref\Singletone.dll
