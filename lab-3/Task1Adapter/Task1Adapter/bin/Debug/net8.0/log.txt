@@ -1,0 +1,6 @@
+Simple test message.
+ERROR: Error test message.
+WARNING: Warning test message.
+Simple test message.
+ERROR: Error test message.
+WARNING: Warning test message.
