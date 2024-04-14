@@ -11,6 +11,7 @@ namespace SimpleHTML.Nodes
         public List<string> Classes { get; set; }
         public List<LightNode> Children { get; set; }
         private IDisplayState _displayState;
+        private ICommand _command;
 
         public LightElementNode(string tagName, string displayType, bool isSelfClosing)
         {
@@ -64,6 +65,16 @@ namespace SimpleHTML.Nodes
             visitor.Visit(this);
             foreach (var child in Children)
                 child.Accept(visitor);
+        }
+
+        public void SetCommand(ICommand command)
+        {
+            _command = command;
+        }
+
+        public void ExecuteCommand()
+        {
+            _command.Execute();
         }
     }
 }
