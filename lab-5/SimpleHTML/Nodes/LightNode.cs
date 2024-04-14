@@ -2,7 +2,7 @@
 
 namespace SimpleHTML.Nodes
 {
-    public abstract class LightNode
+    public abstract class LightNode : LifecycleHooks
     {
         public abstract string OuterHTML { get; }
         public abstract string InnerHTML { get; }
