@@ -48,9 +48,8 @@ namespace SimpleHTML.Nodes
             {
                 var sb = new StringBuilder();
                 foreach (var child in Children)
-                {
                     sb.Append(child.OuterHTML);
-                }
+
                 return sb.ToString();
             }
         }
@@ -58,6 +57,13 @@ namespace SimpleHTML.Nodes
         public void AddChild(LightNode child)
         {
             Children.Add(child);
+        }
+
+        public override void Accept(IVisitor visitor)
+        {
+            visitor.Visit(this);
+            foreach (var child in Children)
+                child.Accept(visitor);
         }
     }
 }

@@ -2,7 +2,7 @@
 
 namespace SimpleHTML.Classes
 {
-    internal interface IVisitor
+    public interface IVisitor
     {
         void Visit(LightElementNode element);
         void Visit(LightTextNode textNode);
