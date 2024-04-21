@@ -1,0 +1,15 @@
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.exe
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.deps.json
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.runtimeconfig.json
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.dll
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\bin\Debug\net8.0\ChainOfResponsibility.pdb
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.AssemblyInfo.cs
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.sourcelink.json
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.dll
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\obj\Debug\net8.0\refint\ChainOfResponsibility.dll
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.pdb
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\obj\Debug\net8.0\ChainOfResponsibility.genruntimeconfig.cache
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\ChainOfResponsibility\obj\Debug\net8.0\ref\ChainOfResponsibility.dll

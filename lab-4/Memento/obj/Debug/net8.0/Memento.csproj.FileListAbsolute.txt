@@ -1,0 +1,15 @@
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\bin\Debug\net8.0\Memento.exe
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\bin\Debug\net8.0\Memento.deps.json
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\bin\Debug\net8.0\Memento.dll
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\bin\Debug\net8.0\Memento.pdb
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\obj\Debug\net8.0\Memento.sourcelink.json
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\obj\Debug\net8.0\Memento.dll
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\obj\Debug\net8.0\refint\Memento.dll
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\obj\Debug\net8.0\Memento.pdb
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+D:\Projects\C#\Ekatrin\KPZ_Kravchenko_IPZ-22-2\lab-4\Memento\obj\Debug\net8.0\ref\Memento.dll
