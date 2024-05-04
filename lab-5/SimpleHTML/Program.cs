@@ -35,5 +35,15 @@ internal class Program
 
         var xmlExporter = new XmlExportVisitor();
         xmlExporter.ExportToXml(rootElement);
+
+        // Example of using the ChangeVisibilityCommand
+        var elementToChange = new LightElementNode("div", "block", false);
+        var changeVisibilityCommand = new ChangeVisibilityCommand(elementToChange, "inline");
+
+        elementToChange.SetCommand(changeVisibilityCommand);
+
+        elementToChange.ExecuteCommand();
+
+        Console.WriteLine(elementToChange.OuterHTML);
     }
 }
