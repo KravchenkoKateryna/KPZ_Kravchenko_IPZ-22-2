@@ -1,4 +1,5 @@
-﻿using SimpleHTML.Nodes;
+﻿using SimpleHTML.Classes;
+using SimpleHTML.Nodes;
 
 internal class Program
 {
@@ -25,5 +26,14 @@ internal class Program
         element.SetDisplayType("inline");
 
         Console.WriteLine(element.OuterHTML);
+
+
+        // Example of using the XMLExportVisitor
+        var rootElement = new LightElementNode("div", "block", false);
+        rootElement.AddChild(new LightTextNode("Hello, world!"));
+        rootElement.AddChild(new LightElementNode("p", "block", false));
+
+        var xmlExporter = new XmlExportVisitor();
+        xmlExporter.ExportToXml(rootElement);
     }
 }
