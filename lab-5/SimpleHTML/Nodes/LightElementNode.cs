@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using SimpleHTML.Classes;
+using System.Text;
 
 namespace SimpleHTML.Nodes
 {
@@ -9,27 +10,34 @@ namespace SimpleHTML.Nodes
         public bool IsSelfClosing { get; set; }
         public List<string> Classes { get; set; }
         public List<LightNode> Children { get; set; }
+        private IDisplayState _displayState;
 
         public LightElementNode(string tagName, string displayType, bool isSelfClosing)
         {
             TagName = tagName;
-            DisplayType = displayType;
             IsSelfClosing = isSelfClosing;
             Classes = new List<string>();
             Children = new List<LightNode>();
+            _displayState = displayType == "block" ? new BlockDisplayState() : new InlineDisplayState();
         }
 
+        public void SetDisplayType(string displayType)
+        {
+            _displayState = displayType == "block" ? new BlockDisplayState() : new InlineDisplayState();
+        }
+        
         public override string OuterHTML
         {
             get
             {
+                _displayState.ApplyStyle(this);
                 var sb = new StringBuilder();
                 sb.Append($"<{TagName}");
                 if (Classes.Count > 0)
-                {
                     sb.Append($" class='{string.Join(" ", Classes)}'");
-                }
+
                 sb.Append(IsSelfClosing ? "/>" : $">{InnerHTML}</{TagName}>");
+
                 return sb.ToString();
             }
         }

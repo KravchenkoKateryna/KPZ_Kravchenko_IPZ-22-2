@@ -18,5 +18,12 @@ internal class Program
 
         Console.WriteLine(div.OuterHTML);
         Console.WriteLine(div.InnerHTML);
+
+        var element = new LightElementNode("div", "block", false);
+        Console.WriteLine(element.OuterHTML);
+
+        element.SetDisplayType("inline");
+
+        Console.WriteLine(element.OuterHTML);
     }
 }
