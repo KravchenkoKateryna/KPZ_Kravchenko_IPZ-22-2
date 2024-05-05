@@ -9,7 +9,7 @@ namespace SimpleHTML.Nodes
         public string DisplayType { get; set; } // "block" або "inline"
         public bool IsSelfClosing { get; set; }
         public List<string> Classes { get; set; }
-        public List<LightNode> Children { get; set; }
+
         private IDisplayState _displayState;
         private ICommand _command;
 
