@@ -20,11 +20,13 @@ namespace SimpleHTML.Nodes
             Classes = new List<string>();
             Children = new List<LightNode>();
             _displayState = displayType == "block" ? new BlockDisplayState() : new InlineDisplayState();
+            OnCreated();
         }
 
         public void SetDisplayType(string displayType)
         {
             _displayState = displayType == "block" ? new BlockDisplayState() : new InlineDisplayState();
+            OnDisplayTypeChanged();
         }
         
         public override string OuterHTML
@@ -41,6 +43,16 @@ namespace SimpleHTML.Nodes
 
                 return sb.ToString();
             }
+        }
+
+        public override void OnCreated()
+        {
+            Console.WriteLine($"Element {TagName} created.");
+        }
+
+        public override void OnDisplayTypeChanged()
+        {
+            Console.WriteLine($"Element {TagName} display type changed.");
         }
 
         public override string InnerHTML
